@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Services\\ProdutosApp.Services.csproj": {}
+    "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Domain\\ProdutosApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Services\\ProdutosApp.Services.csproj": {
+    "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Domain\\ProdutosApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Services\\ProdutosApp.Services.csproj",
-        "projectName": "ProdutosApp.Services",
-        "projectPath": "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Services\\ProdutosApp.Services.csproj",
+        "projectUniqueName": "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Domain\\ProdutosApp.Domain.csproj",
+        "projectName": "ProdutosApp.Domain",
+        "projectPath": "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Domain\\ProdutosApp.Domain.csproj",
         "packagesPath": "C:\\Users\\tulio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Services\\obj\\",
+        "outputPath": "C:\\Users\\tulio\\OneDrive\\Área de Trabalho\\Coding\\C# .Net\\Aula 15\\ProdutosApp\\ProdutosApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,16 +44,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -66,9 +56,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

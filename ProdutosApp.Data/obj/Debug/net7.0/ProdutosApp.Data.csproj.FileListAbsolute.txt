@@ -1,0 +1,11 @@
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.deps.json
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.dll
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.pdb
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.AssemblyInfoInputs.cache
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.AssemblyInfo.cs
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.dll
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\refint\ProdutosApp.Data.dll
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.pdb
+C:\Users\tulio\OneDrive\Área de Trabalho\Coding\C# .Net\Aula 15\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ref\ProdutosApp.Data.dll
